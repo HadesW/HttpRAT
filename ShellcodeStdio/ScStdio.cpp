@@ -239,7 +239,7 @@ namespace ScStdio {
 			obj.vt = VT_NULL;
 
 			//TODO! Change cElement to the number of Main arguments
-			SAFEARRAY *psaStaticMethodArgs = SafeArrayCreateVector(VT_VARIANT, 0, 1);
+			SAFEARRAY *psaStaticMethodArgs = SafeArrayCreateVector(VT_VARIANT, 0, 0);
 
 			/* EntryPoint.Invoke(null, new object[0]) */
 			hr = pMethodInfo->Invoke_3(obj, psaStaticMethodArgs, &retVal);
